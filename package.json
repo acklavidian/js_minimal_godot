@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "./JS_GODOT --script Main.jsx",
+    "watch": "tsc -w -p .",
+    "compile": "tsc -p ."
+  },
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  },
+  "types": "godot.d.ts",
+  "name": "js_godot",
+  "version": "1.0.0",
+  "main": "Main.jsx",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
